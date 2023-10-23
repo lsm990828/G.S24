@@ -5,6 +5,7 @@ using UnityEngine;
 public class BallRobot : MonoBehaviour
 {
     public float speed;
+    public int wordCount;
     float hAxis;
     float vAxis;
     bool jDown;
